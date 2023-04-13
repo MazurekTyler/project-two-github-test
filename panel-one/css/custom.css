@@ -1,0 +1,20 @@
+.col-odd {
+    background-color: #1394ce;
+}
+
+.col-even {
+    background-color: #acbcc4;
+}
+
+.col {
+    min-height: 160px;
+}
+
+.bg-gradient {
+    background: rgb(2,0,36) !important;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 79%, rgba(0,212,255,1) 100%) !important;
+}
+
+.white-text {
+    color: white;
+}
